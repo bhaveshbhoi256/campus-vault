@@ -2,6 +2,9 @@
 
 A student notes sharing platform built using React, Firebase, and Google Drive.
 
+## 🌐 Live Demo
+🔗 https://campus-vault-5debf.web.app
+
 ## 🚀 Features
 - User authentication (Firebase)
 - Upload notes via Google Drive links
@@ -10,8 +13,7 @@ A student notes sharing platform built using React, Firebase, and Google Drive.
 
 ## 🛠️ Tech Stack
 - React (Vite)
-- Firebase Auth + Firestore
+- Firebase Authentication
+- Firestore Database
 - Google Drive
-
-## ⚙️ Setup
-Follow the setup guide in this repository.
+- Firebase Hosting
